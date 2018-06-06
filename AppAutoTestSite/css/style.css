@@ -1,0 +1,64 @@
+th {
+    padding: 5px;
+}
+
+span.tab{
+    padding: 0 40px; /* Or desired space*/
+}
+
+td {
+    padding: 5px;
+}
+
+hr.myhrline{
+     margin: 10px;
+  }
+
+.account-form {
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#accounts-table {
+    margin-top: 20px;
+}
+
+#labs-table {
+    margin-top: 20px;
+}
+
+#results-table {
+	margin-top: 20px;
+	width: 80vw;
+}
+
+#results-table .num {
+	width: 5%;
+	text-align: center;
+}
+#results-table .id {
+	width: 15%;
+	text-align: center;
+}
+
+#results-table .result {
+	width: 15%;
+	text-align: center;
+}
+
+.upload-result-alert {
+	width: 40%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#test-case-selection > select {
+	width: 20%;
+}
+
+.nopadding {
+   padding: 0 !important;
+   margin: 0 !important;
+}
+
